@@ -9,11 +9,12 @@ Assim como outros eu fui inspirado, decidi então criar este projecto , elevando
 ## API
 <p>Consulte a <a><b>documentação</b></a> para instalar a api em ambiente local.</p>
 
-## Antes De Contribuir 🎨
+## Antes de usar 🎨
 <p>Consulte a <a><b>documentação</b></a> para usar a api.</p>
+
 ## Antes De Contribuir 🎨
 > *Por favor, leia esta seção se você quer contribuir com seu trabalho*
-### Requisitos
+###Requisitos
 	1. PHP ^ = 7.2 
 	2. Apache
 	3. Mysql
@@ -37,7 +38,7 @@ Este repositório é referenciado e usado por **pessoas de todo o mundo**. Sendo
 - Que você comentou seu codigo de forma.
 
 ## Licensa
-MIT
+GPL-3.0 License
 
 ## Apoiar
 > Se você estiver em angola:
