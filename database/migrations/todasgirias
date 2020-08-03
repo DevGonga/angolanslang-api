@@ -1,0 +1,27 @@
+todasgirias
+    limite | tudo
+    nome | true
+    category | false
+    exemplos | false
+    fotos | false
+    sons | false
+    traducoes | false
+    --
+    nome
+    categoria
+        id
+        nome
+getAllPorCategoriaById
+    categoria_id
+    --
+    girias
+        giria 
+            id
+            nome
+getAllPorCategoriaByName
+    categoria_nome
+     --
+        girias
+            giria 
+                id
+                nome
